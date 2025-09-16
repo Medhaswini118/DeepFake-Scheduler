@@ -60,3 +60,15 @@ curl "http://127.0.0.1:8000/jobs"
 ---
 
 ✅ You now have a full pipeline: Dataset → Train Model → Serve with Scheduler → Web Dashboard.
+
+👩‍💻 Author
+
+Developed by MEDHASWINI
+
+---
+
+# ✅ Step 4: Outputs
+## 📷 Screenshots
+
+### Job Output
+![Job Output](screenshots/output.png)
